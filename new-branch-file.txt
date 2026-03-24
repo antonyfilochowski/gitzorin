@@ -1,1 +1,3 @@
-new branch file only shows up in the new branch 
+new branch file only shows up in the new branch
+no longer true
+following merge,appears in both master & new branch
